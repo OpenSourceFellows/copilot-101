@@ -46,7 +46,7 @@ Review and refine the generated code or chat responses carefully. Debugging may 
 
 ### Copilot inline prompt engineering
 - Use cases: auto complete code, documentation when using a readme 
-- Ctrl + enter will create a large segment of code
+- Ctrl + return will create a large segment of code
 - Having specificity in variable name will help create a pattern 
 
 ### Copilot Chat
